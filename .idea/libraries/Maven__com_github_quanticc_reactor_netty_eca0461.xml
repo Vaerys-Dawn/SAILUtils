@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.quanticc:reactor-netty:eca0461">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/quanticc/reactor-netty/eca0461/reactor-netty-eca0461.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/quanticc/reactor-netty/eca0461/reactor-netty-eca0461-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/quanticc/reactor-netty/eca0461/reactor-netty-eca0461-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
